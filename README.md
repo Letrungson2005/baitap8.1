@@ -6,4 +6,3 @@
 ## Kết quả 
 Hình ảnh kết quả:
 
-![app](./assets/anh1.png)
